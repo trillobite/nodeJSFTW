@@ -11,7 +11,7 @@
             EXAMPLE OF CODE FOR APP.JS
     
     //allow access to the emitter
-    var Emitter = requrie('./emitter');
+    var Emitter = require('./emitterExample.js');
 
     //set a new emitter object.
     var emtr = new Emitter();
