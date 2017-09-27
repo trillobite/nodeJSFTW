@@ -1,5 +1,5 @@
 //allow access to the emitter
-var Emitter = require('./emitterExample.js');
+var Emitter = require('events');
 
 //set a new emitter object.
 var emtr = new Emitter();
